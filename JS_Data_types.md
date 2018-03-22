@@ -1,4 +1,4 @@
-#JS Data Types
+##JS Data Types
 
 ## Primitive Data Types
 - Number
